@@ -11,8 +11,8 @@ A simple Go-based API to fetch country details, with caching for better performa
 ## Installation
 1. Clone the repository  
    ```sh
-   git clone https://github.com/yourusername/country-api.git
-   cd country-api
+   git clone https://github.com/vibhuukhare/country-search-api.git
+   cd country-search-api
 
 2. Install dependencies
     go mod tidy
